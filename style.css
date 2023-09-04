@@ -1,16 +1,3 @@
-/* CSS Positions : Static = this is by by default
-: Relative = relative to its own body 
-: Absolute = relative to its parent body
-: Sticky = its means its stick to its position while scrolling 
-: Fixed = its means it dont move while scrolling stays on place 
-
-👍 z-index : will work for all positions except static ( default )
-
-👍 Justify content center = vertically
-👍 Align items center = Horizontally */
-
-
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 * {
     margin: 0;
